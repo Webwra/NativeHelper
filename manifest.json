@@ -10,8 +10,8 @@
 			"url": "https://github.com/Webwra"
 		}
 	],
-	"minimumCoreVersion": "0.7.9",
-	"compatibleCoreVersion": "0.8.8",
+	"minimumCoreVersion": "0.0.0",
+	"compatibleCoreVersion": "1.0.0",
 	"scripts": [
 		"math.min.js"
 	],
