@@ -4,5 +4,6 @@
   "description": "A simple module created as a demo for working in the Foundry Virtual Tabletop framework.",
   "author": "Webwra",
   "version": "1.0.0",
-  "minimumCoreVersion": "0.8.8"
+  "minimumCoreVersion": "0.8.8",
+  "download": "https://github.com/Webwra/NativeHelper/archive/refs/heads/main.zip"
 }
