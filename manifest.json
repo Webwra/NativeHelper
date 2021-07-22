@@ -1,0 +1,15 @@
+{
+	"name": "NativeHelper",
+	"title": "NativeHelper",
+	"description": "A collection of my content.",
+	"version": "1.0.0",
+	"author": "Webwra",
+	"minimumCoreVersion": "0.8.6",
+	"compatibleCoreVersion": "0.8.8",
+	"scripts": [
+		"scripts/NativeHelper.js"
+
+	],
+	"url": "https://github.com/Webwra/NativeHelper",
+	"download": "https://github.com/Webwra/NativeHelper/releases/download/test/NativeHelper.zip"
+}
