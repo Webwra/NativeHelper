@@ -1,11 +1,14 @@
 {
-  "name": "NativeHelper",
-  "title": "Native Helper",
-  "description": "A simple module created as a demo for working in the Foundry Virtual Tabletop framework.",
-  "author": "Webwra",
-  "version": "1.0.0",
-  "minimumCoreVersion": "0.8.8",
-  "scripts": [
+    "name": "NativeHelper",
+    "title": "NativeHelper",
+    "description": "A collection of my content.",
+    "version": "1.0.0",
+    "author": "Webwra",
+    "minimumCoreVersion": "0.8.6",
+    "compatibleCoreVersion": "0.8.8",
+    "scripts": [
 	  "NativeHelper.js"
-	]
-}
+	],
+    "manifest": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/module.json",
+    "download": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/my-content-module.zip"
+  }
