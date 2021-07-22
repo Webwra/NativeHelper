@@ -7,7 +7,7 @@
 	"minimumCoreVersion": "0.8.6",
 	"compatibleCoreVersion": "0.8.8",
 	"scripts": [
-		"scripts/NativeHelper.js"
+		"NativeHelper.js"
 	],
 	"download": "https://github.com/Webwra/NativeHelper/releases/download/test/NativeHelper.zip"
 }
