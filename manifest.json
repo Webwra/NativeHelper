@@ -21,7 +21,7 @@
 	],
 	"manifest": "https://raw.githubusercontent.com/Webwra/NativeHelper/main/manifest.json",
 	"url": "https://github.com/League-of-Foundry-Developers/mathjs-lib",
-	"download": "https://github.com/Webwra/NativeHelper/releases/download/test/NativeHelper.zip",
+	"download": "https://github.com/Webwra/NativeHelper/raw/test/NativeHelper.zip",
 	"media": [
 		{
 			"type": "icon",
