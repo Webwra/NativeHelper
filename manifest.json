@@ -9,6 +9,5 @@
 	"scripts": [
 		"scripts/NativeHelper.js"
 	],
-	"manifest": "https://raw.githubusercontent.com/Webwra/NativeHelper/main/manifest.json",
 	"download": "https://github.com/Webwra/NativeHelper/releases/download/test/NativeHelper.zip"
 }
