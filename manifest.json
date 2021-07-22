@@ -1,6 +1,6 @@
 {
-	"name": "NativeHelper",
-	"title": "NativeHelper.js",
+	"name": "_mathjs",
+	"title": "Math.js",
 	"description": "TESZT.",
 	"version": "7.5.1-fvtt2",
 	"library": true,
