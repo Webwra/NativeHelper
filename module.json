@@ -1,11 +1,11 @@
 {
-  "name": "dice-tray",
-  "title": "Dice Tray - An Example FVTT Module",
+  "name": "NativeHelper",
+  "title": "Native Helper",
   "description": "A simple module created as a demo for working in the Foundry Virtual Tabletop framework.",
-  "author": "Atropos",
+  "author": "Webwra",
   "version": "1.0.0",
-  "minimumCoreVersion": "0.5.0",
+  "minimumCoreVersion": "0.8.8",
   "scripts": [
-	  "Beyond20NativeHelper.js"
+	  "NativeHelper.js"
 	]
 }
