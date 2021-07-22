@@ -2,12 +2,16 @@
 	"name": "NativeHelper",
 	"title": "NativeHelper.js",
 	"description": "Webwra test.",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"library": true,
 	"authors": [
 		{
 			"name": "Webwra",
-			"url": "https://github.com/Webwra"
+			"url": "bb"
+		},
+		{
+			"name": "Web",
+			"url": "aa"
 		}
 	],
 	"minimumCoreVersion": "0.0.0",
