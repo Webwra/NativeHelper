@@ -1,21 +1,16 @@
 {
-	"name": "_mathjs",
-	"title": "Math.js",
-	"description": "LIBRARY: Math.js - This module is just a dependency for other modules and does not offer any functionality on its own. This module includes the popular Math.js library.",
-	"version": "7.5.1-fvtt2",
-	"library": true,
+	"name": "NativeHelper",
+	"title": "NativeHelper",
+	"description": "Webwra test.",
+	"version": "1.0.0",
 	"authors": [
 		{
-			"name": "The League of Extraodinary FVTT Developers",
+			"name": "Webwra",
 			"url": "https://github.com/League-of-Foundry-Developers"
-		},
-		{
-			"name": "Jos de Jong",
-			"url": "https://mathjs.org/"
 		}
 	],
-	"minimumCoreVersion": "0.0.0",
-	"compatibleCoreVersion": "1.0.0",
+	"minimumCoreVersion": "0.8.8",
+	"compatibleCoreVersion": "0.8.8",
 	"scripts": [
 		"math.min.js"
 	],
